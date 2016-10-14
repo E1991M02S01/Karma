@@ -1,16 +1,22 @@
 /topay
 - 940708089@karma.com
   [{
+    when: '10-OCT-2016 5:00 PM',
+    promise: '20-OCT-2016',
     contact: 'Julio Mendoza',
     email: '987654312@karma.com',
     status: 'fresh',
-    detail: 'Vegan Lunch',
-    amount: 60,
+    hint: 'Almuerzo|Chela',
+    detail: [
+      { item: 'Almuerzo Vegetariano', amount: 27, when: '20-OCT-2016'},
+      { item: 'Chela Partido', amount: 10 , when: '20-OCT-2016'},
+    ],
+    balance: 37,
     currency: 'SOLES',
     transactions: [
-      { type: 'lend', amount: 100 },
-      { type: 'amortize', amount: 20 },
-      { type: 'amortize', amount: 30 },
-      { type: 'lend', amount: 10 }
+      { type: 'lend', amount: 27, when: '10-OCT-2016 5:00 PM' },
+      { type: 'lend', amount: 10, when: '15-OCT-2016 5:00 AM' }
     ]
   }]
+  
+  
