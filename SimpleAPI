@@ -1,4 +1,4 @@
-
+940708089@karma.com:
 {
   contact: 'Veronica Mendoza',
   ident: '994939493@karma.com',    //when that user register in the platform he should confirm its data.
@@ -14,3 +14,12 @@
     {type: 'lend', when: '10-OCT-2016', amount: 10},
   }]
 }
+
+040708089
+Profile
+ - karma: 1200
+
+
+940708089
+Hitorial
+{contact: 'Veronica Mendoza', when: '20-OCT-2016', karma: 10}
