@@ -1,0 +1,16 @@
+/topay
+- 940708089@karma.com
+  [{
+    contact: 'Julio Mendoza',
+    email: '987654312@karma.com',
+    status: 'fresh',
+    detail: 'Vegan Lunch',
+    amount: 60,
+    currency: 'SOLES',
+    transactions: [
+      { type: 'lend', amount: 100 },
+      { type: 'amortize', amount: 20 },
+      { type: 'amortize', amount: 30 },
+      { type: 'lend', amount: 10 }
+    ]
+  }]
