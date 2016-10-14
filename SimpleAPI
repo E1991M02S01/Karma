@@ -1,0 +1,16 @@
+
+{
+  contact: 'Veronica Mendoza',
+  ident: '994939493@karma.com',    //when that user register in the platform he should confirm its data.
+  balance: 33.00,
+  active: true
+  items: [
+    {name: 'almuerzo', amount: 28, active: true },
+    {name: 'chela', amount: 10, active: true }
+  ],
+  transactions: [{
+    {type: 'lend', when: '10-OCT-2016', amount: 28},
+    {type: 'amotize', when '10-OCT-2016', amount: -5}
+    {type: 'lend', when: '10-OCT-2016', amount: 10},
+  }]
+}
