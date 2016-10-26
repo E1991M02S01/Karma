@@ -1,0 +1,25 @@
+topayback:
+[
+{
+  contact: 'Gabriela A.',
+  contactId: 321654789,
+  registerAt: '01 nov 2016',
+  concept: 'comida',
+  currency: 'S/.',
+  amount: 20,
+  promise: '03 nov 2016'
+}
+]
+
+tocharge:
+[
+{
+  contact: 'Sayury Murrugarra.',
+  contactId: 321654789,
+  registerAt: '01 nov 2016',
+  concept: 'zapatilla',
+  currency: 'S/.',
+  amount: 50,
+  promise: '03 dic 2016'
+}
+]
